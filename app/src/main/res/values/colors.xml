@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Store Manager Pro Pivot Palette -->
+    <color name="navy_deep">#07182B</color>
+    <color name="navy_surface">#0B2238</color>
+    <color name="navy_border">#1B3B59</color>
+    <color name="teal_brand">#159EAA</color>
+    <color name="teal_light">#1CC4D3</color>
+    <color name="silver_brand">#C5CDD5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
